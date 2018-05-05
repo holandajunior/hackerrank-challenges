@@ -1,6 +1,7 @@
 # Bot saves princess 1 and 2
 
 ## Bot saves princess 1
+Link: https://www.hackerrank.com/challenges/saveprincess/problem
 
 Princess Peach is trapped in one of the four corners of a square grid. You are in the center of the grid and can move one step at a time in any of the four directions. Can you rescue the princess?
 
@@ -72,6 +73,7 @@ displayPathtoPrincess(m,grid)
 
 
 ## Bot saves princess 2
+Link: https://www.hackerrank.com/challenges/saveprincess2/problem
 
 In this version of "Bot saves princess", Princess Peach and bot's position are randomly set. Can you save the princess?
 
