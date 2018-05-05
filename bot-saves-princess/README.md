@@ -133,8 +133,7 @@ def nextMove(n,r,c,grid):
         return "DOWN"
     elif( distX > 0 ):
         return "UP"
-    
-    if( distY < 0 ):
+    elif( distY < 0 ):
         return "RIGHT"
     elif( distY > 0 ):
         return "LEFT"
